@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Sofa",
+    "id": "sofa",
+    "seller": "Amy Adams",
+    "price": "free",
+    "location": "Mercator",
+    "image": "/images/sofa.jpeg"
+  },
+  {
+    "title": "Carpet",
+    "id": "carpet",
+    "seller": "Ryan Reynolds",
+    "price": "free",
+    "location": "C3",
+    "image": "/images/carpet.jpeg"
+  },
+  {
+    "title": "Tapestry",
+    "id": "tapestry",
+    "seller": "Alan Alda",
+    "price": "free",
+    "location": "Nord",
+    "image": "/images/tapestry.jpeg"
+  }
+]
